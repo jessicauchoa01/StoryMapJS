@@ -7,6 +7,7 @@ Access this link and sign in: https://storymap.knightlab.com/
 
 ## 🚀 Start
 This page will open and you must add the name of your application:
+
 ![start](https://github.com/jessicauchoa01/StoryMapJS/assets/75124373/b4b0fa7e-cbc6-4ba9-861b-86964d57f1ff)
 
 ## 🎨 Styling first page
@@ -16,10 +17,12 @@ After that, style your first page with the most important information about your
 
 ## 🎞 YouTube video
 In the example below, we added our first point using geographic coordinates. But don't be scared, we'll add a pin directly to the map later. This time our media will be a YouTube video:
+
 ![youtubeVideo](https://github.com/jessicauchoa01/StoryMapJS/assets/75124373/8b3633a3-d99f-4306-8baf-1500b4c9cb0c)
 
 ## 📷 Adding photo
 To add a photo the path is the same, you need to indicate the folder where your file is (or if you prefer, add a URL to an image from the internet).
+
 ![addingPhoto](https://github.com/jessicauchoa01/StoryMapJS/assets/75124373/629cbe25-4f7d-425b-9cc8-30ff9f820841)
 
 ## 📍 Pin with name
@@ -29,6 +32,7 @@ Now we will add a point using the name of the place. You can also change the bac
 
 ## 🔗 URL
 To reference web pages is super simple, follow the steps below:
+
 ![AddingLink](https://github.com/jessicauchoa01/StoryMapJS/assets/75124373/4c8010a7-4343-47bd-9f32-6828fe05b2ee)
 
 ## 📤 Share your Story Map JS
